@@ -1,5 +1,8 @@
 _repo: Doctor-Sutilis-Cuentos_64589
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64589-h/images/cover.jpg
 creator:
   author:
     agent_name: Alas, Leopoldo
@@ -20,6 +23,8 @@ creator:
     - https://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29
     - https://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64589#Doctor-Sutilis-Cuentos
 gutenberg_issued: '2021-02-18'
 gutenberg_type: Text
 identifiers:
